@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(62,69,95);
+}
+/* TITLE AND NAV BAR */
+.title {
+    font-size: 73px;
+    font-family: Helvetica;
+    color: rgb(142,164,210);
+    text-align: center;
+}
+
+.navi {
+    font-size: 23px;
+    font-family: Helvetica;
+    background-color: rgb(142,164,210);
+    color: rgb(40,45,60);
+    padding: 1%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* SHORT DESCRIPTION */
+p {
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 25px;
+}
+
+.button {
+    background-color: rgb(142,164,210);
+    text-align: center;
+    color: rgb(40,15,60);
+    font-family: Helvetica;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+}

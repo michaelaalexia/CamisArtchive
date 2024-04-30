@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(62,69,95);
+}
+/* TITLE AND NAV BAR */
+.title {
+    font-size: 73px;
+    font-family: Helvetica;
+    color: rgb(142,164,210);
+    text-align: center;
+}
+
+.navi {
+    font-size: 23px;
+    font-family: Helvetica;
+    background-color: rgb(142,164,210);
+    color: rgb(40,45,60);
+    padding: 1%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* ARTCHIVE SUMMARY */
+.artchive {
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 25px;
+}
+
+.summary {
+    font-family: Helvetica;
+    font-size: 40px;
+    color: rgb(142,164,210);
+}
