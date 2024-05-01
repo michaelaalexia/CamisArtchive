@@ -34,3 +34,21 @@ p {
     font-size: 25px;
     margin-left: 1;
 }
+
+/* CONTACT SECTION */
+
+.contact {
+    font-family: Helvetica;
+    font-size: 40px;
+    color: rgb(40,45,60);
+    text-align: center;
+}
+.contact2 {
+    color: white;
+    font-family: Helvetica;
+    font-size: 25px;
+    margin-left: 1;
+    background-color: rgb(142,164,210);
+    text-align: center;
+    padding: 1%;
+}
