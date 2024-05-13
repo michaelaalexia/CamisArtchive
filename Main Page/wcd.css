@@ -20,8 +20,15 @@ body {
     justify-content: space-evenly;
 }
 /* WRITTEN SECTION */
-p {
+.summary {
+    font-family: Helvetica;
+    font-size: 40px;
+    color: rgb(142,164,210);
     text-align: center;
+}
+
+p {
+    text-align: left;
     color: white;
     font-family: Helvetica;
     font-size: 25px;
